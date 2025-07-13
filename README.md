@@ -51,19 +51,19 @@
     <br>
     <sub>Deep learning NLP project for movie review sentiment classification.</sub>
   </td>
-  <td align="center">
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPCYgb1hwDhb-lyoKOOpSN8zahRU6eZjTgcQ&s" width="140" alt="Medicator Predictor Icon"/>
-  <br>
-    <b>Medicator Predictor</b>
-    <br>
-    <a href="https://colab.research.google.com/drive/1S8guDv_hVFxH5Rb5y2o5ddSvhvoOVe9w?usp=sharing">Notebook</a>
-    <br>
-    <sub>ML-based prediction of medication needs.</sub>
-  </td>
-</tr>
+<td align="center">
+   <img src="https://cdn.prod.website-files.com/611ed5a217b32b056e5477ec/66e9af5ba9335580eb6202ae_644988ded773ee3739f6691a_Online%20Medical%20Checkup%20(1)%20(1).gif" width="140" alt="Medicator Predictor Icon"/>
+   <br>
+   <b>Medicator Predictor</b>
+   <br>
+   <a href="https://colab.research.google.com/drive/1S8guDv_hVFxH5Rb5y2o5ddSvhvoOVe9w?usp=sharing">Notebook</a>
+   <br>
+   <sub>ML-based prediction of medication needs.</sub>
+</td>
+
 <tr>
   <td align="center" colspan="2">
-     <img src="https://repository-images.githubusercontent.com/286819592/b82e14cf-3c85-4f91-84c0-bea095c353a8" width="140" alt="Car Amount Purchasing Prediction Icon"/>
+     <img src="https://www.rvoicmai.in/valuation-course/image/val_banner_img.gif" width="140" alt="Car Amount Purchasing Prediction Icon"/>
   <br>
     <b>Car Amount Purchasing Prediction</b>
     <br>
