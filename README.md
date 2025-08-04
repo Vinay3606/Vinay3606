@@ -17,10 +17,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Sentiment Analysis of IMDB Movie Review](https://colab.research.google.com/drive/1OH6CKNjq5UZbErRqA5xuwXTIH6hnas2y?usp=sharing)
+- 🔭 I’m currently working on [Movie Recommender System](https://colab.research.google.com/drive/17VU0XszTb026BAZX4_rXnVZduUbwF9a7?usp=sharing)
 - 🌱 I’m currently learning **Deep Learning, NLP**
-- 👯 I’m looking to collaborate on [Medicator Predictor](https://colab.research.google.com/drive/1S8guDv_hVFxH5Rb5y2o5ddSvhvoOVe9w?usp=sharing)
-- 🤝 I’m looking for help with [Car Amount Purchasing Prediction](https://colab.research.google.com/drive/15TiCp0PvcOCMt0hb0OCQhh0VtJDOxfm-?usp=sharing)
+- 👯 I’m looking to collaborate on [Loan Predictor](https://colab.research.google.com/drive/1-PkEpScuT9w3vxUun_b_mtfnPfxsLVjM?usp=sharing)
+- 🤝 I’m looking for help with [Rock And Mine Prediction](https://colab.research.google.com/drive/1nPMzpbBWCkOcHHpHJ1Dywgyh7NDavCoh?usp=sharing)
 - 📫 How to reach me: **choudharyvinay1504@gmail.com**
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1dmQoFBgNoXx4ZPG5QN6Z3hLjg9nwkAWZ/view?usp=sharing)
 - ⚡ Fun fact: **I'm funny**
@@ -45,31 +45,31 @@
   <td align="center">
       <img src="https://camo.githubusercontent.com/0e0528fcdc5af626d75ec91e52bb03c0781decb4c983a2020a4ee09db88498e8/68747470733a2f2f63646e2e706978616261792e636f6d2f616e696d6174696f6e2f323032332f30332f32342f32302f35322f32302d35322d35312d3830325f3531322e676966" width="140" alt="Sentiment Analysis Icon"/>
   <br>
-    <b>Sentiment Analysis of IMDB Movie Review</b>
+    <b>Movie Recommender System</b>
     <br>
-    <a href="https://colab.research.google.com/drive/1OH6CKNjq5UZbErRqA5xuwXTIH6hnas2y?usp=sharing">Notebook</a>
+    <a href="https://colab.research.google.com/drive/17VU0XszTb026BAZX4_rXnVZduUbwF9a7?usp=sharing">Notebook</a>
     <br>
-    <sub>Deep learning NLP project for movie review sentiment classification.</sub>
+    <sub>Movie recommendation system using movie metadata and content-based filtering..</sub>
   </td>
 <td align="center">
-   <img src="https://cdn.prod.website-files.com/611ed5a217b32b056e5477ec/66e9af5ba9335580eb6202ae_644988ded773ee3739f6691a_Online%20Medical%20Checkup%20(1)%20(1).gif" width="140" alt="Medicator Predictor Icon"/>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwLy7rEs_ThXfb-VAa_CoCztKmhg8QMs9nmg&s" width="140" alt="Loan Approval Predictor Icon"/>
    <br>
-   <b>Medicator Predictor</b>
+   <b>Loan Predictor</b>
    <br>
-   <a href="https://colab.research.google.com/drive/1S8guDv_hVFxH5Rb5y2o5ddSvhvoOVe9w?usp=sharing">Notebook</a>
+   <a href="https://colab.research.google.com/drive/1-PkEpScuT9w3vxUun_b_mtfnPfxsLVjM?usp=sharing">Notebook</a>
    <br>
-   <sub>ML-based prediction of medication needs.</sub>
+   <sub>Loan approval prediction using Support Vector Machine (SVM) algorithm</sub>
 </td>
 
 <tr>
   <td align="center" colspan="2">
-     <img src="https://www.rvoicmai.in/valuation-course/image/val_banner_img.gif" width="140" alt="Car Amount Purchasing Prediction Icon"/>
+     <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2627370/extras/worker_hammering_small.gif?t=1752388095" width="140" alt="Rock And Mine Icon"/>
   <br>
-    <b>Car Amount Purchasing Prediction</b>
+    <b>Rock And Mine Prediction</b>
     <br>
-    <a href="https://colab.research.google.com/drive/15TiCp0PvcOCMt0hb0OCQhh0VtJDOxfm-?usp=sharing">Notebook</a>
+    <a href="https://colab.research.google.com/drive/1nPMzpbBWCkOcHHpHJ1Dywgyh7NDavCoh?usp=sharing">Notebook</a>
     <br>
-    <sub>Predicting car purchase amounts using ML techniques.</sub>
+    <sub>Binary classification using Logistic Regression to distinguish between rocks and mines.</sub>
   </td>
 </tr>
 </table>
