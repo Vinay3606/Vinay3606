@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on **Movie Recommender System**
 - 🤝 I’m looking for help with **Resume Screening System**
 - 📫 How to reach me: **choudharyvinay1504@gmail.com**
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1dmQoFBgNoXx4ZPG5QN6Z3hLjg9nwkAWZ/view?usp=sharing)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1GkT8fZFcvzpWr2rhwirlZJSULCQuThQE/view?usp=drive_link)
 - ⚡ Fun fact: **I'm funny**
 
 ---
