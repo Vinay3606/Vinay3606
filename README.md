@@ -49,7 +49,7 @@
 <br>
 <b>RAG-based AI Teaching Assistant</b>
 <br>
-<a href="#">In Progress</a>
+<a href="">In Progress</a>
 <br>
 <sub>
 AI-powered teaching assistant using Retrieval-Augmented Generation (RAG) that answers queries from custom documents using LLMs, embeddings, and vector databases.
@@ -72,11 +72,11 @@ Content-based movie recommendation system using movie metadata, cosine similarit
 
 <tr>
 <td align="center" colspan="2">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/4567396/resume.gif" width="140"/>
+<img src="https://imgs.search.brave.com/OJkLnhMtBDM6DBUtPHW6f2QQqc2BWliVpWbsabK-UtM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9vdWNo/LXByb2QtdmFyLWNk/bi5pY29uczguY29t/L251L2lsbHVzdHJh/dGlvbnMvcHJldmll/d3MvVWJ4Mms2U0lN/UFRTQ2lWWC5qcGc" width="140"/>
 <br>
 <b>Resume Screening System</b>
 <br>
-<a href="#">Feature Project</a>
+<a href="https://colab.research.google.com/drive/19xKIyboeX-79mfzYrhrmevo8ZQnUhRSF?usp=drive_link">Feature Project</a>
 <br>
 <sub>
 NLP-based resume screening system that automatically filters and ranks resumes based on job descriptions using text processing and machine learning.
