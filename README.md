@@ -1,4 +1,3 @@
-![logo](https://github.com/Vinay3606/Vinay3606/blob/main/vinay_banner.png)
 <h1 align="center">Hi 👋, I'm <span style="color:#007acc">Vinay Choudhary</span></h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
