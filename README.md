@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#007acc">Vinay Choudhary</span></h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Scientist/ AI/ML Engineer from India</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -15,9 +15,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **RAG-based AI Teaching Assistant**
-- 🌱 I’m currently learning **Deep Learning, NLP**
-- 👯 I’m looking to collaborate on **Movie Recommender System**
+- 🔭 I’m currently working on **Blog-Writing AI Agent**
+- 🌱 I’m currently learning **Langgraph,Mcp Server,Agentic AI**
+- 👯 I’m looking to collaborate on **RAG-Based AI Teaching Assistant**
 - 🤝 I’m looking for help with **Resume Screening System**
 - 📫 How to reach me: **choudharyvinay1504@gmail.com**
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1RMI_hyBTva8wEYGXw9Cs7q1VzWZRDeKE/view?usp=drive_link)
