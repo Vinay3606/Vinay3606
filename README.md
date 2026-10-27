@@ -21,7 +21,7 @@
 - 🌱 Currently learning **LangGraph, MCP and Agentic AI**
 - 💼 Looking for **fresher roles in AI/ML, Data Science and Software Engineering**
 - 📫 Reach me: **choudharyvinay1504@gmail.com**
-- 📄 [Resume](https://drive.google.com/file/d/1RMI_hyBTva8wEYGXw9Cs7q1VzWZRDeKE/view?usp=drive_link)
+- 📄 [Resume](https://drive.google.com/file/d/1yMTAATAY8srb8sNTq4pQ3TrjrXQKdOd_/view?usp=sharing)
 
 ---
 
