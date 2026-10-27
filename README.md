@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#007acc">Vinay Choudhary</span></h1>
-<h3 align="center">A passionate Data Scientist/ AI/ML Engineer from India</h3>
+<h3 align="center">Aspiring AI/ML Engineer | GenAI • RAG • AI Agents</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-8E24AA?style=for-the-badge&logo=spaCy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-8E24AA?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
@@ -15,75 +16,62 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Blog-Writing AI Agent**
-- 🌱 I’m currently learning **Langgraph,Mcp Server,Agentic AI**
-- 👯 I’m looking to collaborate on **RAG-Based AI Teaching Assistant**
-- 🤝 I’m looking for help with **Resume Screening System**
-- 📫 How to reach me: **choudharyvinay1504@gmail.com**
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1RMI_hyBTva8wEYGXw9Cs7q1VzWZRDeKE/view?usp=drive_link)
-- ⚡ Fun fact: **I'm funny**
+- 🎓 B.Tech in Computer Science, IPS Academy, Indore (2022–2026) | CGPA 8.5
+- 🔭 Building end-to-end **GenAI, RAG and ML** projects, from data to deployment
+- 🌱 Currently learning **LangGraph, MCP and Agentic AI**
+- 💼 Looking for **fresher roles in AI/ML, Data Science and Software Engineering**
+- 📫 Reach me: **choudharyvinay1504@gmail.com**
+- 📄 [Resume](https://drive.google.com/file/d/1RMI_hyBTva8wEYGXw9Cs7q1VzWZRDeKE/view?usp=drive_link)
 
 ---
 
+## 🛠️ Tech Stack
 
-## 🛠️ Skills
+| Area | Tools |
+|------|-------|
+| **Languages** | Python, SQL |
+| **GenAI & Agents** | LLMs, RAG, Prompt Engineering, AI Agents, LangChain, LangGraph, MCP, Ollama |
+| **ML & NLP** | Scikit-learn, TF-IDF, SVM, Whisper, Embeddings |
+| **Backend & Apps** | FastAPI, Flask, Streamlit |
+| **Data** | NumPy, Pandas |
+| **Tools** | Git, GitHub, VS Code, Google Colab |
 
-| Language/Tool         | Proficiency |
-|-----------------------|-------------|
-| **Python**            | ⭐⭐⭐⭐⭐      |
-| **Machine Learning**  | ⭐⭐⭐⭐⭐      |
-| **Deep Learning**     | ⭐⭐⭐⭐       |
-| **NLP**               | ⭐⭐⭐⭐       |
-| **SQL**               | ⭐⭐⭐⭐       |
-| **Data Visualization**| ⭐⭐⭐⭐       |
-
+---
 
 ## 📂 Featured Projects
 
-<table>
-<tr>
+### 🎓 RAG-based AI Teaching Assistant
+Converts video lectures into a queryable AI assistant using a full RAG pipeline.
+- Transcribed MP3 audio to structured JSON chunks using **OpenAI Whisper**
+- Generated **vector embeddings** and stored them (joblib) for fast retrieval
+- **Semantic search** fetches relevant chunks, and the LLM gives context-aware answers
 
-<td align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="140"/>
-<br>
-<b>RAG-based AI Teaching Assistant</b>
-<br>
-<a href="">In Progress</a>
-<br>
-<sub>
-AI-powered teaching assistant using Retrieval-Augmented Generation (RAG) that answers queries from custom documents using LLMs, embeddings, and vector databases.
-</sub>
-</td>
+`Python` `Whisper` `Embeddings` `RAG` `LLM`
+[🔗 Repo](https://github.com/Vinay3606/REPO-NAME)
 
-<td align="center">
-<img src="https://cdn.pixabay.com/animation/2023/03/24/20/52/20-52-51-802_512.gif" width="140"/>
-<br>
-<b>Movie Recommender System</b>
-<br>
-<a href="https://colab.research.google.com/drive/17VU0XszTb026BAZX4_rXnVZduUbwF9a7?usp=sharing">Notebook</a>
-<br>
-<sub>
-Content-based movie recommendation system using movie metadata, cosine similarity, and feature engineering.
-</sub>
-</td>
+---
 
-</tr>
+### 📄 Resume Screening System using SVM
+Automated resume classification system with a real-time web interface.
+- NLP + **TF-IDF** vectorization with an **SVM (One-vs-Rest)** model
+- Classifies resumes into **25 job categories** with **~98% test accuracy**
+- **FastAPI** backend with a **Flask** web UI; upload a PDF/text resume and get an instant job role prediction
 
-<tr>
-<td align="center" colspan="2">
-<img src="https://imgs.search.brave.com/OJkLnhMtBDM6DBUtPHW6f2QQqc2BWliVpWbsabK-UtM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9vdWNo/LXByb2QtdmFyLWNk/bi5pY29uczguY29t/L251L2lsbHVzdHJh/dGlvbnMvcHJldmll/d3MvVWJ4Mms2U0lN/UFRTQ2lWWC5qcGc" width="140"/>
-<br>
-<b>Resume Screening System</b>
-<br>
-<a href="https://colab.research.google.com/drive/19xKIyboeX-79mfzYrhrmevo8ZQnUhRSF?usp=drive_link">Feature Project</a>
-<br>
-<sub>
-NLP-based resume screening system that automatically filters and ranks resumes based on job descriptions using text processing and machine learning.
-</sub>
-</td>
-</tr>
+`Python` `Scikit-learn` `NLP` `FastAPI` `Flask`
+[🔗 Notebook](https://colab.research.google.com/drive/19xKIyboeX-79mfzYrhrmevo8ZQnUhRSF?usp=drive_link) | [🔗 Repo](https://github.com/Vinay3606/REPO-NAME)
 
-</table>
+---
+
+### ✈️ AI Travel Planning System using LangGraph
+Multi-agent system that plans trips end to end.
+- Specialized agents for **flight, hotel, weather, budget and itinerary** with conditional routing
+- Built with **LangGraph, MCP and Ollama**
+- **Human-in-the-Loop** approval workflow and a **Streamlit** UI to review and generate personalized plans
+
+`LangGraph` `MCP` `Ollama` `Streamlit` `AI Agents`
+[🔗 Repo](https://github.com/Vinay3606/REPO-NAME)
+
+---
 
 ## 📊 GitHub Stats
 
@@ -92,47 +80,21 @@ NLP-based resume screening system that automatically filters and ranks resumes b
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay3606&theme=radical" width="400"/>
 </p>
 
+## 🏅 Certifications
+
+- Generative AI for All, Physics Wallah & Microsoft
+- Data Science, Ethans Tech, Pune
 
 ## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/vinay-choudhary-3a6286288" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay-choudhary-3a6286288" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/_vinay-3606" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_vinay-3606" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="mailto:choudharyvinay1504@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="30" />
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" />
   </a>
-</p>
-
-
-## 🧰 Languages and Tools
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/footer.png" width="200"/>
 </p>
